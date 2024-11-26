@@ -1,3 +1,24 @@
 Prompt engineering
 
 add explicit instructions to ignore any unrealed or malicious content.
+
+AI -> ML -> Deep LEarning -> GenAI
+AI Components
+ Data Layer -> ML framework and Algorithms Layer -> Model Layer -> Application Layer 
+ ML : Its a type of AI for buildiing methods that allows machines to LEarning
+ DL: uses neurons and synapses(like our brain) to train a Model 
+ Multi-Modal Models: Does NOT  rely on single type of input. Does NOT provide single type of output. Provides output in mix of audio video and text
+
+ ML Terms:
+
+GPT (Generative pre-trained Transformer) - Generate human text or computer code based ion input prompts 
+BERT (Bidirectional Encoder Representations from Transformers) - similar intent to GPT, but reads the text in two directions 
+RNN (Recurrent Neural Network) - meant for sequential data such as time-series or text useful in speech recognition, time-series prediction 
+ResNET (Residual Network) - Deep convolutional Neural Network used for image recognition tasks, object detection, facial recogition
+SVM - Support Vector Machine - ML algorithm for classification and regression
+Wavenet - model to generate raw audio waveform, used in Speech Synthesis 
+ GAN-Generative Adversarial Network - models used to generate synthetic data such as images, videos or sounds that resemble the training data. Helpful for data augmentation
+ XGBoost Extreme Gradient Boosting - an implementation of gradient boosting  
+
+ pseudo labeling 
+ 
