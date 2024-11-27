@@ -21,4 +21,17 @@ Wavenet - model to generate raw audio waveform, used in Speech Synthesis
  XGBoost Extreme Gradient Boosting - an implementation of gradient boosting  
 
  pseudo labeling 
+  labled nad unlabeled data
+  structured(model is trained ro map inputs to known outputs) eg DB tables 
+  unstructed data - data from social networks 
+
+  ML algorithm
+   supervised learning -   mapping function can predict a output for unseen input . It labeled data 
+   supervised 
+   discrete - separate separate data 
+   training set/validation set/test set data 
+   self supervised leaning 
+
+   MAE  MAPE RMSE R2 used torvalute mfoels tht predicts  a continous value 
+
  
